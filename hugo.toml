@@ -3,3 +3,18 @@ languageCode = "en-us"
 title = "BizSpotUs"
 theme = "ananke"
 author = "Manoj"
+[[menu.main]]
+  name = "about us"
+  url = "https://bizspotus.site/about/"
+  weight = 10
+
+[[menu.main]]
+  name = "Contact Us"
+  url = "https://bizspotus.site/contact/"
+  weight = 20
+  
+  [[menu.main]]
+  name = "Privacy Policy"
+  url = "https://bizspotus.site/Privacy Policy/"
+  weight = 20
+
