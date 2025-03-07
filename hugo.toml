@@ -1,5 +1,6 @@
 baseURL = "https://bizspotus.site/"
 languageCode = "en-us"
-title = "My New Blog"
+title = "BizSpotUs"
 theme = "ananke"
 publishDir = "public"
+author = "Manoj"
