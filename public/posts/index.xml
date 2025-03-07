@@ -2,74 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on BizSpotUs</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://bizspotus.site/posts/</link>
     <description>Recent content in Posts on BizSpotUs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Mar 2025 14:25:13 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Final Post</title>
-      <link>http://localhost:1313/posts/a-final-post/</link>
-      <pubDate>Fri, 07 Mar 2025 14:25:13 +0530</pubDate>
-      <guid>http://localhost:1313/posts/a-final-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A Newest Post</title>
-      <link>http://localhost:1313/posts/a-newest-post/</link>
-      <pubDate>Fri, 07 Mar 2025 13:35:16 +0530</pubDate>
-      <guid>http://localhost:1313/posts/a-newest-post/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Fri, 07 Mar 2025 07:48:27 +0530</lastBuildDate>
+    <atom:link href="https://bizspotus.site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Complete Guide to Protecting Your Future</title>
-      <link>http://localhost:1313/posts/a-complete-guide-to-protecting-your-future/</link>
+      <link>https://bizspotus.site/posts/a-complete-guide-to-protecting-your-future/</link>
       <pubDate>Fri, 07 Mar 2025 07:48:27 +0530</pubDate>
-      <guid>http://localhost:1313/posts/a-complete-guide-to-protecting-your-future/</guid>
+      <guid>https://bizspotus.site/posts/a-complete-guide-to-protecting-your-future/</guid>
       <description>&lt;h1 id=&#34;understanding-insurance-a-complete-guide-to-protecting-your-future&#34;&gt;Understanding Insurance: A Complete Guide to Protecting Your Future&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Insurance is a financial safety net that provides protection against unexpected events such as accidents, illnesses, property damage, and even loss of life. By paying a small premium, individuals and businesses can safeguard themselves from major financial burdens. In this article, we will explore the basics of insurance, its types, and how to choose the right policy.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-insurance&#34;&gt;What Is Insurance?&lt;/h2&gt;&#xA;&lt;p&gt;Insurance is a contract between an individual (policyholder) and an insurance company. The policyholder pays regular premiums, and in return, the insurer provides financial coverage for specific risks. If an unfortunate event occurs, the insurance company compensates for the losses based on the policy terms.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My 6th Post</title>
-      <link>http://localhost:1313/posts/my-6th-post/</link>
-      <pubDate>Fri, 07 Mar 2025 00:34:48 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-6th-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My Fifth Post</title>
-      <link>http://localhost:1313/posts/my-fifth-post/</link>
-      <pubDate>Thu, 06 Mar 2025 23:34:46 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-fifth-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My Forth Post</title>
-      <link>http://localhost:1313/posts/my-forth-post/</link>
-      <pubDate>Thu, 06 Mar 2025 23:34:33 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-forth-post/</guid>
-      <description>&lt;h1 id=&#34;24-hour-food-places-near-me&#34;&gt;&lt;strong&gt;24 hour food places near me&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Hunger can strike at any hour. Whether you&amp;rsquo;re a night owl, a shift worker, or just craving a midnight snack, 24-hour food places are a godsend.&lt;br&gt;&#xA;These establishments cater to our round-the-clock lifestyles. They offer a variety of food options, from fast food to sit-down restaurants.&lt;br&gt;&#xA;But how do you find these 24-hour food places near you? With the rise of technology, it&amp;rsquo;s easier than ever.&lt;br&gt;&#xA;Online maps, apps, and delivery services have made it simple to locate eateries open at all hours. Yet, the sheer number of options can be overwhelming.&lt;br&gt;&#xA;This guide aims to help. We&amp;rsquo;ll explore the world of 24-hour dining, from popular chains to unique local spots.&lt;br&gt;&#xA;So, whether you&amp;rsquo;re looking for a quick bite or a full meal, read on. Your next 24-hour food adventure awaits.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Third Post</title>
-      <link>http://localhost:1313/posts/my-third-post/</link>
-      <pubDate>Thu, 06 Mar 2025 23:34:22 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-third-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My Second Post</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
-      <pubDate>Thu, 06 Mar 2025 23:34:07 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Thu, 06 Mar 2025 23:33:31 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

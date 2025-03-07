@@ -4,7 +4,7 @@ title = "BizSpotUs"
 theme = "ananke"
 author = "Manoj"
 [[menu.main]]
-  name = "about us"
+  name = "About us"
   url = "https://bizspotus.site/about/"
   weight = 10
 
@@ -15,6 +15,6 @@ author = "Manoj"
   
   [[menu.main]]
   name = "Privacy Policy"
-  url = "https://bizspotus.site/Privacy Policy/"
+  url = "https://bizspotus.site/privacy-policy/"
   weight = 20
 
