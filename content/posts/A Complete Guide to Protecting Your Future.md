@@ -2,6 +2,7 @@
 date = '2025-03-07T07:48:27+05:30'
 draft = false
 title = 'A Complete Guide to Protecting Your Future'
+description = "Learn how insurance can safeguard you from financial risks. Discover the types, benefits, and how to choose the best policy."
 +++
 # Understanding Insurance: A Complete Guide to Protecting Your Future
 
