@@ -10,7 +10,7 @@ description = "Explore top insurance plans for health, life, auto, pet and home.
 
 
 [[menu.main]]
-  name = "About us"
+  name = "About Us"
   url = "https://bizspotus.site/about/"
   weight = 10
 
