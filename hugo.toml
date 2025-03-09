@@ -1,13 +1,11 @@
 baseURL = "https://bizspotus.site/"
 languageCode = "en-us"
-title = "BizSpotUs"
+title = "BizSpotUs | Your Trusted Guide to Insurance Solutions"
 theme = "ananke"
 author = "Manoj"
 
 [params]
 description = "Explore top insurance plans for health, life, auto, pet and home. Compare options and find affordable coverage to protect what matters most."
-
-
 
 [[menu.main]]
   name = "About Us"
